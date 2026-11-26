@@ -1,16 +1,18 @@
 {
   "$schema": "https://living-code.dev/port.schema.json",
   "schemaVersion": 1,
-  "name": "Herdr",
-  "slug": "herdr",
+  "name": "Herdr TUI",
+  "slug": "herdr-tui",
   "group": "AI & Agents",
   "emoji": "🐑",
-  "description": "Living Code for Herdr: complete native theme overrides for the sidebar, panels, selections, status indicators and workspace chrome.",
+  "description": "Living Code for Herdr TUI: complete native theme overrides for the sidebar, panels, selections, status indicators and workspace chrome.",
   "homepage": "https://herdr.dev",
   "quick": "Install the native theme files",
   "aliases": [
+    "herdr",
     "herd",
     "herdrdev",
+    "herdr tui",
     "agent workspace"
   ],
   "flavors": [
@@ -26,9 +28,9 @@
     "themes/living-code-signal.toml"
   ],
   "images": [
-    { "flavor": "night", "path": "images/night.png", "alt": "Herdr running Living Code Night" },
-    { "flavor": "frost", "path": "images/frost.png", "alt": "Herdr running Living Code Frost" },
-    { "flavor": "paper", "path": "images/paper.png", "alt": "Herdr running Living Code Paper" },
-    { "flavor": "signal", "path": "images/signal.png", "alt": "Herdr running Living Code Signal" }
+    { "flavor": "night", "path": "images/night.png", "alt": "Herdr TUI running Living Code Night" },
+    { "flavor": "frost", "path": "images/frost.png", "alt": "Herdr TUI running Living Code Frost" },
+    { "flavor": "paper", "path": "images/paper.png", "alt": "Herdr TUI running Living Code Paper" },
+    { "flavor": "signal", "path": "images/signal.png", "alt": "Herdr TUI running Living Code Signal" }
   ]
 }

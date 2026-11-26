@@ -3,16 +3,16 @@
 
 <a href="https://living-code.dev"><img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/brand/favicon.svg" width="64" height="64" alt="Living Code [lc] mark"></a>
 
-# 🐑 Living Code for Herdr
+# 🐑 Living Code for Herdr TUI
 
-**Calm slate. Living color.**<br>Living Code for Herdr: complete native theme overrides for the sidebar, panels, selections, status indicators and workspace chrome.
+**Calm slate. Living color.**<br>Living Code for Herdr TUI: complete native theme overrides for the sidebar, panels, selections, status indicators and workspace chrome.
 
 <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/00a692.svg" width="14" height="14" alt="teal #00a692"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/52d7c1.svg" width="14" height="14" alt="mint #52d7c1"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/9ae0dd.svg" width="14" height="14" alt="aqua #9ae0dd"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/80b6d3.svg" width="14" height="14" alt="steel #80b6d3"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/8acb83.svg" width="14" height="14" alt="moss #8acb83"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/f0be6d.svg" width="14" height="14" alt="amber #f0be6d"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/e18c5f.svg" width="14" height="14" alt="copper #e18c5f"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/e96560.svg" width="14" height="14" alt="flare #e96560"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/bf91cd.svg" width="14" height="14" alt="orchid #bf91cd"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/ddaec3.svg" width="14" height="14" alt="rose #ddaec3">
 
 <a href="https://living-code.dev"><img src="https://img.shields.io/badge/Living%20Code-4%20flavors-9ae0dd?style=for-the-badge&amp;labelColor=2d3438&amp;color=9ae0dd&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjIgMTcgNTguNSAzMCI%2BPGcgZmlsbD0iIzAwYTY5MiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEuNzg3NzA5IDQzLjI2MjU3KSBzY2FsZSgwLjAzMTI4NSAtMC4wMzEyODUpIj48cGF0aCB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIiBkPSJNMTg1IC0xMTBWODMwSDQ2NVY3MTVIMzEwVjVINDY1Vi0xMTBaIi8%2BPHBhdGggdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNTIwIDApIiBkPSJNMzg5IDBRMzA3IDAgMjU3LjUgNDlRMjA4IDk4IDIwOCAxNzhWNjE3SDI3VjczMEgzMzNWMTgxUTMzMyAxNTAgMzUwLjUgMTMxLjVRMzY4IDExMyAzOTggMTEzSDU1OVYwWiIvPjxwYXRoIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwNDAgMCkiIGQ9Ik0zMDkgLTEwUTIzOCAtMTAgMTg1LjUgMTYuNVExMzMgNDMgMTA0IDkxLjVRNzUgMTQwIDc1IDIwNlYzNDRRNzUgNDEwIDEwNCA0NTguNVExMzMgNTA3IDE4NS41IDUzMy41UTIzOCA1NjAgMzA5IDU2MFE0MTIgNTYwIDQ3NC41IDUwNi41UTUzNyA0NTMgNTQwIDM2MUg0MTdRNDE0IDQwNCAzODQuNSA0MjcuNVEzNTUgNDUxIDMwOSA0NTFRMjU4IDQ1MSAyMjkgNDIzLjVRMjAwIDM5NiAyMDAgMzQ1VjIwNlEyMDAgMTU1IDIyOSAxMjdRMjU4IDk5IDMwOSA5OVEzNTYgOTkgMzg1IDEyMi41UTQxNCAxNDYgNDE3IDE4OUg1NDBRNTM3IDk3IDQ3NC41IDQzLjVRNDEyIC0xMCAzMDkgLTEwWiIvPjxwYXRoIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1NjAgMCkiIGQ9Ik0xMzUgLTExMFY1SDI5MFY3MTVIMTM1VjgzMEg0MTVWLTExMFoiLz48L2c%2BPC9zdmc%2B" alt="Living Code: 4 flavors"></a>
-<a href="https://github.com/living-code-theme/herdr/stargazers"><img src="https://img.shields.io/github/stars/living-code-theme/herdr?style=for-the-badge&amp;labelColor=2d3438&amp;color=f0be6d&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2YwYmU2ZCIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8%2BPC9zdmc%2B" alt="GitHub stars"></a>
-<a href="https://github.com/living-code-theme/herdr/issues"><img src="https://img.shields.io/github/issues/living-code-theme/herdr?style=for-the-badge&amp;labelColor=2d3438&amp;color=ddaec3&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRhZWMzIiBzdHJva2Utd2lkdGg9IjIuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IiNkZGFlYzMiLz48L3N2Zz4%3D" alt="Open issues"></a>
-<a href="https://github.com/living-code-theme/herdr/commits/main"><img src="https://img.shields.io/github/last-commit/living-code-theme/herdr?style=for-the-badge&amp;labelColor=2d3438&amp;color=abe2a4&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggc3Ryb2tlPSIjYWJlMmE0IiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNMiAxMmg1LjVNMTYuNSAxMkgyMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjQuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYWJlMmE0IiBzdHJva2Utd2lkdGg9IjIuNSIvPjwvc3ZnPg%3D%3D&amp;label=updated" alt="Last commit"></a>
+<a href="https://github.com/living-code-theme/herdr-tui/stargazers"><img src="https://img.shields.io/github/stars/living-code-theme/herdr-tui?style=for-the-badge&amp;labelColor=2d3438&amp;color=f0be6d&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2YwYmU2ZCIgZD0iTTEyIDJsMy4wOSA2LjI2TDIyIDkuMjdsLTUgNC44NyAxLjE4IDYuODhMMTIgMTcuNzdsLTYuMTggMy4yNUw3IDE0LjE0IDIgOS4yN2w2LjkxLTEuMDF6Ii8%2BPC9zdmc%2B" alt="GitHub stars"></a>
+<a href="https://github.com/living-code-theme/herdr-tui/issues"><img src="https://img.shields.io/github/issues/living-code-theme/herdr-tui?style=for-the-badge&amp;labelColor=2d3438&amp;color=ddaec3&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZGRhZWMzIiBzdHJva2Utd2lkdGg9IjIuNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiIGZpbGw9IiNkZGFlYzMiLz48L3N2Zz4%3D" alt="Open issues"></a>
+<a href="https://github.com/living-code-theme/herdr-tui/commits/main"><img src="https://img.shields.io/github/last-commit/living-code-theme/herdr-tui?style=for-the-badge&amp;labelColor=2d3438&amp;color=abe2a4&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggc3Ryb2tlPSIjYWJlMmE0IiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBkPSJNMiAxMmg1LjVNMTYuNSAxMkgyMiIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjQuNSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYWJlMmE0IiBzdHJva2Utd2lkdGg9IjIuNSIvPjwvc3ZnPg%3D%3D&amp;label=updated" alt="Last commit"></a>
 
 [Installation](#installation) · [Flavors](#flavors) · [Configuration](#configuration) · [All ports](https://github.com/living-code-theme)
 
@@ -24,21 +24,21 @@
 <tr>
 <td width="50%" valign="top">
 <strong>Night</strong><br><sub>Dark · full palette</sub><br><br>
-<a href="images/night.png"><img src="images/night.png" alt="Herdr running Living Code Night" width="640"></a>
+<a href="images/night.png"><img src="images/night.png" alt="Herdr TUI running Living Code Night" width="640"></a>
 </td>
 <td width="50%" valign="top">
 <strong>Frost</strong><br><sub>Dark · softer chroma</sub><br><br>
-<a href="images/frost.png"><img src="images/frost.png" alt="Herdr running Living Code Frost" width="640"></a>
+<a href="images/frost.png"><img src="images/frost.png" alt="Herdr TUI running Living Code Frost" width="640"></a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <strong>Paper</strong><br><sub>Light · near-white slate</sub><br><br>
-<a href="images/paper.png"><img src="images/paper.png" alt="Herdr running Living Code Paper" width="640"></a>
+<a href="images/paper.png"><img src="images/paper.png" alt="Herdr TUI running Living Code Paper" width="640"></a>
 </td>
 <td width="50%" valign="top">
 <strong>Signal</strong><br><sub>Dark · teal accent</sub><br><br>
-<a href="images/signal.png"><img src="images/signal.png" alt="Herdr running Living Code Signal" width="640"></a>
+<a href="images/signal.png"><img src="images/signal.png" alt="Herdr TUI running Living Code Signal" width="640"></a>
 </td>
 </tr>
 </table>
@@ -50,7 +50,7 @@ Select any preview to view the image at full size.
 ```sh
 flavor=night # night, frost, paper, or signal
 theme_dir="$(dirname "${HERDR_CONFIG_PATH:-${XDG_CONFIG_HOME:-$HOME/.config}/herdr/config.toml}")/themes"
-curl -fsSL --create-dirs -o "$theme_dir/living-code-$flavor.toml" "https://raw.githubusercontent.com/living-code-theme/herdr/main/themes/living-code-$flavor.toml"
+curl -fsSL --create-dirs -o "$theme_dir/living-code-$flavor.toml" "https://raw.githubusercontent.com/living-code-theme/herdr-tui/main/themes/living-code-$flavor.toml"
 ```
 
 Herdr currently has no standalone theme-file import. Merge `[theme]` and `[theme.custom]` from the downloaded fragment into your active `config.toml` (normally `~/.config/herdr/config.toml`, or `HERDR_CONFIG_PATH`). Replace existing theme tables rather than appending duplicates. **Do not replace your whole config**: keep workspaces, keybindings and integrations. Then reload:
@@ -66,7 +66,7 @@ Expand a flavor for its full-size preview and activation instructions.
 <details data-lc-flavor="night">
 <summary><strong>Night</strong> · Dark · full palette</summary>
 
-<p><a href="images/night.png"><img src="images/night.png" alt="Herdr running Living Code Night" width="1280"></a></p>
+<p><a href="images/night.png"><img src="images/night.png" alt="Herdr TUI running Living Code Night" width="1280"></a></p>
 
 Merge `[theme]` and `[theme.custom]` from the downloaded `living-code-night.toml` into the active config, then run `herdr server reload-config`.
 
@@ -75,7 +75,7 @@ Merge `[theme]` and `[theme.custom]` from the downloaded `living-code-night.toml
 <details data-lc-flavor="frost">
 <summary><strong>Frost</strong> · Dark · softer chroma</summary>
 
-<p><a href="images/frost.png"><img src="images/frost.png" alt="Herdr running Living Code Frost" width="1280"></a></p>
+<p><a href="images/frost.png"><img src="images/frost.png" alt="Herdr TUI running Living Code Frost" width="1280"></a></p>
 
 Merge `[theme]` and `[theme.custom]` from the downloaded `living-code-frost.toml` into the active config, then run `herdr server reload-config`.
 
@@ -84,7 +84,7 @@ Merge `[theme]` and `[theme.custom]` from the downloaded `living-code-frost.toml
 <details data-lc-flavor="paper">
 <summary><strong>Paper</strong> · Light · near-white slate</summary>
 
-<p><a href="images/paper.png"><img src="images/paper.png" alt="Herdr running Living Code Paper" width="1280"></a></p>
+<p><a href="images/paper.png"><img src="images/paper.png" alt="Herdr TUI running Living Code Paper" width="1280"></a></p>
 
 Merge `[theme]` and `[theme.custom]` from the downloaded `living-code-paper.toml` into the active config, then run `herdr server reload-config`.
 
@@ -93,7 +93,7 @@ Merge `[theme]` and `[theme.custom]` from the downloaded `living-code-paper.toml
 <details data-lc-flavor="signal">
 <summary><strong>Signal</strong> · Dark · teal accent</summary>
 
-<p><a href="images/signal.png"><img src="images/signal.png" alt="Herdr running Living Code Signal" width="1280"></a></p>
+<p><a href="images/signal.png"><img src="images/signal.png" alt="Herdr TUI running Living Code Signal" width="1280"></a></p>
 
 Merge `[theme]` and `[theme.custom]` from the downloaded `living-code-signal.toml` into the active config, then run `herdr server reload-config`.
 
@@ -111,7 +111,7 @@ Previews are captured programmatically from the actual application in an isolate
 
 ## Contributing
 
-Found a problem? [Open an issue](https://github.com/living-code-theme/herdr/issues/new/choose) with the app version, the flavor and a screenshot. Want Living Code somewhere else? [Request a port](https://github.com/living-code-theme/core/issues/new?template=port-request.yml).
+Found a problem? [Open an issue](https://github.com/living-code-theme/herdr-tui/issues/new/choose) with the app version, the flavor and a screenshot. Want Living Code somewhere else? [Request a port](https://github.com/living-code-theme/core/issues/new?template=port-request.yml).
 
 Pull requests are welcome. Keep this README, `port.json` and `images/` in sync, and use real screenshots of the app, never mockups.
 

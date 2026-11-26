@@ -33,12 +33,12 @@ jobs:
       - run: pnpm package
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
-          name: living-code-herdr
+          name: living-code-herdr-tui
           path: dist/*.tar.gz
           if-no-files-found: error
       - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
         with:
-          name: native-previews-herdr
+          name: native-previews-herdr-tui
           path: images/
           if-no-files-found: error
       - name: Commit only validated capture updates on main
